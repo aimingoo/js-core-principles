@@ -29,10 +29,13 @@ Issues区可以提交问题并发布勘误。
 
 
 参考：
+
  * 《JavaScript语言精髓与编程实践》（绿皮书第三版）
+
 [![绿皮书第三版](images/cover-green3.png)](https://book.douban.com/subject/35085910)
 
  * 《程序原本》
+
 [![程序原本](images/cover-elements.png)](https://github.com/aimingoo/my-ebooks)
 
 
